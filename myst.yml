@@ -41,7 +41,10 @@ project:
       children:
         - file: Day 03/Day-03_PreClass_PythonReviewGitIntro-STUDENT.ipynb
         - file: Day 03/Day-03_InClass_GitPractice-STUDENT.ipynb
-
+    - title: Day 04 - Installing Python packages
+      children:
+        - file: Day 04/Day-04_PreClass_DownloadingFilesAndInstallingPackages-STUDENT.ipynb
+        - file: Day 04/Day-04_InClass_PythonPackagesAndMapPlotting-STUDENT.ipynb
 site:
   template: book-theme
   options:
